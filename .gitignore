@@ -1,0 +1,10 @@
+# for cmake
+build
+
+# for node
+node_modules
+package-lock.json
+
+# for vscode
+.vscode
+.cache
