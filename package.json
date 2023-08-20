@@ -7,7 +7,7 @@
     "clean": "rm -rf build",
     "config": "cmake -S. -Bbuild -GNinja",
     "build": "ninja -C build addon",
-    "start": "node index.js"
+    "start": "node tests/index.js"
   },
   "author": "Zzzode",
   "license": "MIT",
