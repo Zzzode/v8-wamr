@@ -1,7 +1,7 @@
 {
   "name": "v8-wamr",
   "version": "1.0.0",
-  "description": "Implement bingding for v8 and wamr with napi",
+  "description": "Implement binding for v8 and wamr with napi",
   "main": "tests/index.js",
   "scripts": {
     "clean": "rm -rf build",

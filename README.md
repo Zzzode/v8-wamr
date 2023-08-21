@@ -1,6 +1,6 @@
 # v8-wamr
 
-Implement bingding for v8 and wamr with napi
+Implement binding for v8 and wamr with napi
 
 ## Introduction
 
