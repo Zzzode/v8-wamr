@@ -8,3 +8,6 @@ package-lock.json
 # for vscode
 .vscode
 .cache
+
+# for clion
+.idea
