@@ -11,6 +11,7 @@ v8-wamr is an open-source project that provides NAPI bindings for V8 engine and 
 - Provides NAPI bindings for V8 engine and WAMR
 - Allows using the same NAPI extensions in V8 engine and WAMR
 - Supports efficient data transfer and function calls between JavaScript and WebAssembly
+- Implement the full WebAssembly JavaScript Interface 2.0 standard
 
 ## Installation
 
